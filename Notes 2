@@ -1,0 +1,23 @@
+A bit is one binary digit. Its the smallest digit in a computer system and can only take digits 1 and 2. This is the formula for number of
+bits to number of values: x(2^x) where x is the number of bits. 
+
+To access seeing the memory of the computer you first have to click on the windows key and then start typing winver and you will see a 
+window called About Windows. Then search up on the windows key and then select task manager. Then select performence in the task manager 
+and you will the memory right below the CPU.
+
+To access seeing the hard disk of the computer you select windows key and E at the same time. Then all your stored files will show up. 
+Right click on the C drive and select properties. Then a window will pop up showing you the capacity in GB and Bytes. 
+
+A file is a group of bytes stored in binary even though it shows numbers. There are different types of files for different things like for
+example, .mp4 is a video playing file and .HTML is html files. MP3 is a music playing file while .png and .jpg are pictures. There are 
+also many other types of files too. A folder is a collection of files. 
+
+To use command promt you click the windows key are R. It lets you type commands to do stuff in windows. Type cmd on the open text bar in
+the window. This opens you a black tab with commands you can type in. 
+
+Eclipse is a software which lets people create their very own programs. Run it by searching it in windows tab. Create a new java project 
+in Eclipse by going to file and put your mouse over new and select java project. Name your project and choose the options you want in the 
+new window and select finish. 
+
+Create a Java Class by going to file in the Eclipse windows and go to new and then to class. This opens a new window and then you give it 
+a name and select the stuff you want. 
